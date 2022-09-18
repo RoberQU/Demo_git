@@ -6,3 +6,10 @@ Martes
 Miercoles
 Jueves
 Viernes
+
+
+Estaciones
+Verano
+Invierno
+Otoño
+Primavera
